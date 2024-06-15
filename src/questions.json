@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the world's largest ocean?",
+        "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Arctic"
+        ],
+        "answer": "Pacific"
+    },
+    {
+        "question": "In a leap year, how many days are there?",
+        "options": [
+            "Three hundred sixty-four",
+            "Three hundred sixty-five",
+            "Three hundred sixty-six",
+            "Three hundred sixty-seven"
+        ],
+        "answer": "Three hundred sixty-six"
+    },
+    {
+        "question": "France's capital city is what?",
+        "options": [
+            "London",
+            "Paris",
+            "Berlin",
+            "Rome"
+        ],
+        "answer": "Paris"
+    },
+    {
+        "question": "The strongest human muscle is which one?",
+        "options": [
+            "Bicep",
+            "Calf",
+            "Heart",
+            "Quadriceps"
+        ],
+        "answer": "Heart"
+    },
+    {
+        "question": "The United States uses what currency?",
+        "options": [
+            "Euro",
+            "Dollar",
+            "Yen",
+            "Yuan"
+        ],
+        "answer": "Dollar"
+    },
+    {
+        "question": "Earth's tallest mountain is which one?",
+        "options": [
+            "Mount Everest",
+            "K2",
+            "Kangchenjunga",
+            "Lhotse"
+        ],
+        "answer": "Mount Everest"
+    },
+    {
+        "question": "Which is not a primary color?",
+        "options": [
+            "Red",
+            "Yellow",
+            "Blue",
+            "Green"
+        ],
+        "answer": "Green"
+    },
+    {
+        "question": "The largest land animal on Earth is which?",
+        "options": [
+            "Elephant",
+            "Giraffe",
+            "Hippopotamus",
+            "Rhinoceros"
+        ],
+        "answer": "Elephant"
+    },
+    {
+        "question": "Earth has how many moons?",
+        "options": [
+            "Zero",
+            "One",
+            "Two",
+            "Three"
+        ],
+        "answer": "One"
+    },
+    {
+        "question": "What search engine am I using to answer your questions?",
+        "options": [
+            "Bing",
+            "DuckDuckGo",
+            "Google",
+            "Yahoo"
+        ],
+        "answer": "Google"
+    }
+]
